@@ -1,0 +1,8 @@
+C:\Users\Felipet\Desktop\Projeto de saida e entradas em txt\ProjectOutIn\ProjectOutIn\bin\Debug\ProjectOutIn.exe.config
+C:\Users\Felipet\Desktop\Projeto de saida e entradas em txt\ProjectOutIn\ProjectOutIn\bin\Debug\ProjectOutIn.exe
+C:\Users\Felipet\Desktop\Projeto de saida e entradas em txt\ProjectOutIn\ProjectOutIn\bin\Debug\ProjectOutIn.pdb
+C:\Users\Felipet\Desktop\Projeto de saida e entradas em txt\ProjectOutIn\ProjectOutIn\obj\Debug\ProjectOutIn.csproj.AssemblyReference.cache
+C:\Users\Felipet\Desktop\Projeto de saida e entradas em txt\ProjectOutIn\ProjectOutIn\obj\Debug\ProjectOutIn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felipet\Desktop\Projeto de saida e entradas em txt\ProjectOutIn\ProjectOutIn\obj\Debug\ProjectOutIn.csproj.CoreCompileInputs.cache
+C:\Users\Felipet\Desktop\Projeto de saida e entradas em txt\ProjectOutIn\ProjectOutIn\obj\Debug\ProjectOutIn.exe
+C:\Users\Felipet\Desktop\Projeto de saida e entradas em txt\ProjectOutIn\ProjectOutIn\obj\Debug\ProjectOutIn.pdb
